@@ -1,0 +1,6 @@
+HeadPhones 1200 20
+Juicer 2000 20
+Laptop 34000 12
+Mobile 15000 20
+Speakers 1500 21
+Television 25000 15

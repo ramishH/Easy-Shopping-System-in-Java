@@ -1,0 +1,12 @@
+Laptop 34000.0
+Television 25000.0
+Speakers 1500.0
+Mobile 15000.0
+Total 75500.0
+19:37:46 0
+2017/07/08 0
+Speakers 1500.0
+Mobile 15000.0
+Total 16500.0
+19:38:49 0
+2017/07/08 0

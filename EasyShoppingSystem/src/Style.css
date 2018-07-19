@@ -1,0 +1,42 @@
+.root{
+    -fx-background-color: #2B043E;
+    -fx-font-size: 9pt;
+    -fx-font-color: #FFFFFF;
+}
+.button{
+    -fx-background-radius: 4;
+    -fx-background-color: #9C9CA1;
+    -fx-text-fill: #2B043E;
+}
+.label{
+   -fx-font-weight: bold;
+   -fx-text-fill: #0FBDAC;
+   -fx-font-size: 10pt;
+ 
+}
+.radio-button{
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+}
+.label-shopping{
+   -fx-font-weight: bold;
+   -fx-text-fill: #0FBDAC;
+   -fx-font-size: 14pt;
+}
+
+.table-view .column-header-background .label{
+   
+   -fx-text-fill: #00000D;
+   -fx-font-size: 10pt;
+}
+.label-cart-total{
+   -fx-font-weight: bold;
+   -fx-text-fill: #BB8612;
+   -fx-font-size: 13pt;
+}
+
+.label-checkout{
+   -fx-font-weight: bold;
+   -fx-text-fill: #0FBDAC;
+   -fx-font-size: 17pt;
+}
